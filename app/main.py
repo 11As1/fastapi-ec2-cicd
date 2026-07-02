@@ -31,6 +31,12 @@ courses = [
         "level": "avanzato",
         "hours": 18
     }
+    {
+        "id": 5,
+        "title": "Programmazione in C",
+        "level": "avanzato",
+        "hours": 20
+    }
 ]
 
 @app.get("/")
